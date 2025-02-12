@@ -173,10 +173,6 @@ Body Test
 
 ```json
 {
-    "type": "W100", 
-    "member": {
-        "lineUserId": "U45d0514a18f60486b6bc7XXXXXXXXX",
-        "cardList": [{"cardId": "312000252098"}]
-    }
+   "id": "1"
 }
 ```
